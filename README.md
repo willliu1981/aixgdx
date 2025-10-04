@@ -4,7 +4,7 @@
 致力於將 **創意、技術** 與 **學習** 結合，打造既有趣又實用的數位產品。  
 
 目前主要專案包含：  
-- **RoomPrep**：房務備品準備小幫手  
+- **RoomPrep**：房務備品準備小幫手  ([RoomPrep 網站](https://willliu1981.github.io/RoomPrep/))
 - **SimpleUI**：基於 XML 的遊戲 UI 建構框架  
 - 其他進行中的創新開發計劃 🚀  
 
